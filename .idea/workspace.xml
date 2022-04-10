@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JavaFxApplication:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="209" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="C##KALUGER: schema" type="3abd1b6a:OraImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectId" id="1SO6jSlGf62qjgX0lp7FTUSm12Y" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="oracle" />
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="JavaFxApplication" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;E:\javafx-sdk-11.0.2\lib&quot; --add-modules=javafx.controls,javafx.fxml,javafx.controls,javafx.graphics,javafx.media" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="allServicesViewState">
+      <serviceView>
+        <treeState>
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8a75c851" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@8a75c851" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@4ef31752" type="9fbbdea:ServiceModel$ServiceNode" />
+            </path>
+          </expand>
+          <select />
+        </treeState>
+      </serviceView>
+    </option>
+    <option name="showServicesTree" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1571422436100" duration="986000" />
+      <workItem from="1571500238804" duration="1451000" />
+      <workItem from="1571501863410" duration="3105000" />
+      <workItem from="1571505019629" duration="11625000" />
+      <workItem from="1571561414187" duration="1451000" />
+      <workItem from="1571585111811" duration="9326000" />
+      <workItem from="1571680741556" duration="1240000" />
+      <workItem from="1571689964414" duration="5305000" />
+      <workItem from="1571726206524" duration="1997000" />
+      <workItem from="1571752311250" duration="3302000" />
+      <workItem from="1571831558302" duration="4207000" />
+      <workItem from="1571836467883" duration="106000" />
+      <workItem from="1571939448552" duration="5949000" />
+      <workItem from="1572017998236" duration="1953000" />
+      <workItem from="1572019968401" duration="11060000" />
+      <workItem from="1572086145466" duration="1593000" />
+      <workItem from="1572100950378" duration="22702000" />
+      <workItem from="1572130262528" duration="52000" />
+      <workItem from="1572161721841" duration="8100000" />
+      <workItem from="1572191308840" duration="5160000" />
+      <workItem from="1572277113004" duration="10746000" />
+      <workItem from="1572288069376" duration="560000" />
+      <workItem from="1572288988398" duration="1771000" />
+      <workItem from="1572371769856" duration="3703000" />
+      <workItem from="1572436851237" duration="3307000" />
+      <workItem from="1572452495104" duration="1160000" />
+      <workItem from="1572526236057" duration="850000" />
+      <workItem from="1572545472488" duration="1156000" />
+      <workItem from="1572603631104" duration="3660000" />
+      <workItem from="1572614028043" duration="2549000" />
+      <workItem from="1572638756490" duration="4565000" />
+      <workItem from="1572690816545" duration="712000" />
+      <workItem from="1572704879220" duration="2970000" />
+      <workItem from="1572726364190" duration="6029000" />
+      <workItem from="1572767150951" duration="5356000" />
+      <workItem from="1572797261965" duration="5556000" />
+      <workItem from="1572807825337" duration="5042000" />
+      <workItem from="1572857260739" duration="1941000" />
+      <workItem from="1572866632599" duration="661000" />
+      <workItem from="1572889569033" duration="6986000" />
+      <workItem from="1572953041429" duration="236000" />
+      <workItem from="1572959316447" duration="285000" />
+      <workItem from="1573281352187" duration="549000" />
+      <workItem from="1573486315292" duration="16117000" />
+      <workItem from="1573541523058" duration="1516000" />
+      <workItem from="1573550937664" duration="562000" />
+      <workItem from="1573560960195" duration="186000" />
+      <workItem from="1573567560348" duration="6178000" />
+      <workItem from="1573645998754" duration="2366000" />
+      <workItem from="1573648702726" duration="1081000" />
+      <workItem from="1573662973790" duration="9348000" />
+      <workItem from="1573731065334" duration="5240000" />
+      <workItem from="1573800815994" duration="4408000" />
+      <workItem from="1573841982693" duration="6668000" />
+      <workItem from="1573909402601" duration="10287000" />
+      <workItem from="1573919877634" duration="1424000" />
+      <workItem from="1573986747714" duration="299000" />
+      <workItem from="1574000165404" duration="6000" />
+      <workItem from="1574003140466" duration="169000" />
+      <workItem from="1574023473638" duration="4619000" />
+      <workItem from="1574084248343" duration="27214000" />
+      <workItem from="1574163087835" duration="233000" />
+      <workItem from="1574165969977" duration="117000" />
+      <workItem from="1574168755636" duration="534000" />
+      <workItem from="1574171955777" duration="17785000" />
+      <workItem from="1574250887993" duration="2240000" />
+      <workItem from="1574266250589" duration="9562000" />
+      <workItem from="1574277788067" duration="14399000" />
+      <workItem from="1574426246118" duration="688000" />
+      <workItem from="1574428723356" duration="353000" />
+      <workItem from="1574436035031" duration="12555000" />
+      <workItem from="1574457630675" duration="686000" />
+      <workItem from="1574505275837" duration="2434000" />
+      <workItem from="1574530664912" duration="9562000" />
+      <workItem from="1574544702387" duration="149000" />
+      <workItem from="1574608988239" duration="2086000" />
+      <workItem from="1574619645243" duration="4124000" />
+      <workItem from="1574686467462" duration="756000" />
+      <workItem from="1574700223363" duration="11294000" />
+      <workItem from="1574748734816" duration="128000" />
+      <workItem from="1574750115017" duration="28000" />
+      <workItem from="1575214927274" duration="747000" />
+      <workItem from="1575218645836" duration="471000" />
+      <workItem from="1575314703543" duration="258000" />
+      <workItem from="1575890348406" duration="179000" />
+      <workItem from="1575891001110" duration="2829000" />
+      <workItem from="1575902590350" duration="39000" />
+      <workItem from="1575908537957" duration="4110000" />
+      <workItem from="1575918192067" duration="4446000" />
+      <workItem from="1575977477268" duration="213000" />
+      <workItem from="1576083610605" duration="4403000" />
+      <workItem from="1576090831013" duration="4013000" />
+      <workItem from="1576149632690" duration="137000" />
+      <workItem from="1576150348955" duration="391000" />
+      <workItem from="1576156597048" duration="9715000" />
+      <workItem from="1576172153207" duration="16963000" />
+      <workItem from="1576231148084" duration="4161000" />
+      <workItem from="1576237586495" duration="6422000" />
+      <workItem from="1576256083700" duration="1423000" />
+      <workItem from="1576321375582" duration="1103000" />
+      <workItem from="1576325817993" duration="44000" />
+      <workItem from="1576330369398" duration="10721000" />
+      <workItem from="1576404277889" duration="98000" />
+      <workItem from="1576487577463" duration="7808000" />
+      <workItem from="1576499205535" duration="1501000" />
+      <workItem from="1576500897571" duration="3925000" />
+      <workItem from="1576509267992" duration="14724000" />
+      <workItem from="1576524523124" duration="927000" />
+      <workItem from="1576576377269" duration="100000" />
+      <workItem from="1576581677957" duration="614000" />
+      <workItem from="1576586365118" duration="14549000" />
+      <workItem from="1576604084308" duration="967000" />
+      <workItem from="1576615810196" duration="1609000" />
+      <workItem from="1576670556490" duration="22000" />
+      <workItem from="1576684424328" duration="1265000" />
+      <workItem from="1576759428135" duration="981000" />
+      <workItem from="1576830031520" duration="600000" />
+      <workItem from="1576930730848" duration="76000" />
+      <workItem from="1577183802341" duration="1010000" />
+      <workItem from="1577461450661" duration="266000" />
+      <workItem from="1577517325266" duration="1494000" />
+      <workItem from="1577524172104" duration="626000" />
+      <workItem from="1577687385996" duration="2410000" />
+      <workItem from="1578250690101" duration="610000" />
+      <workItem from="1579094148987" duration="3302000" />
+      <workItem from="1579098059207" duration="970000" />
+      <workItem from="1579247502791" duration="2135000" />
+      <workItem from="1579333606309" duration="1822000" />
+      <workItem from="1579436167271" duration="16990000" />
+      <workItem from="1579500812526" duration="398000" />
+      <workItem from="1585757556223" duration="1563000" />
+      <workItem from="1600107348691" duration="1196000" />
+      <workItem from="1600156369352" duration="172000" />
+      <workItem from="1602358898709" duration="73000" />
+      <workItem from="1617131125395" duration="45000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/MoveController.java</url>
+          <line>855</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/MoveController.java</url>
+          <line>125</line>
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/sample/MoveController.java</url>
+          <line>436</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="price_ticket_label.getText()" language="JAVA" />
+        <watch expression="tick1contrl.allgoes" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/TrainLand$Main.ic" NAME="Main Coverage Results" MODIFIED="1571562506594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>sample.*</FILTER>
+    </SUITE>
+  </component>
+</project>
